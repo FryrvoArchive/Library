@@ -21,3 +21,9 @@ Raw URL
 >```text
 >https://raw.githubusercontent.com/Fryrvo/Library/main/asset/Fryrvo-banner.png
 >```
+>
+>
+>* Discord Orb
+>```text
+> https://raw.githubusercontent.com/Fryrvo/Library/main/Script/DiscordOrb.txt
+>```
