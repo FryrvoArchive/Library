@@ -12,8 +12,6 @@
 Raw URL
 <details>
 <summary>URL</summary>
-
-
  
 >* Raw
 >```text
@@ -50,7 +48,11 @@ Raw URL
 <!-- Patreon --> <a href="https://www.patreon.com/c/Fryrvo">       <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/icon/64x/patreon2_icon_bg.png" alt="Patreon" style="margin: 5px 10px;"></a>
 <!-- cruseforge --> <a href="https://www.curseforge.com/members/fryrvo">       <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/icon/64x/cruseforge_icon_bg.png" alt="CurseForge" style="margin: 5px 10px;"></a>
 <!-- appleMusic --> <a href="https://music.apple.com/artist/6780427954">       <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/icon/64x/apple_icon_bg.png" alt="AppleMusic" style="margin: 5px 10px;"></a
- 
+
+>```text
+><p align="center" style="text-align: center;">
+>```
+
 >* GitHub
 >```text
 > <!-- GitHub  --> <a href="https://github.com/Fryrvo">                 <img src="https://raw.githubusercontent.com/Fryrvo/Library/main/icon/64x/Github-Button-64.png" alt="GitHub" style="margin: 5px 10px;"></a>
