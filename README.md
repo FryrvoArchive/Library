@@ -7,7 +7,8 @@
 >  <br>
 > is it fun to do anyway? absolutely YES!
 
-
+# Archived
+# MOVE TO [CDN](https://github.com/FryrvoStudio/cdn)
 
 Raw URL
 <details>
